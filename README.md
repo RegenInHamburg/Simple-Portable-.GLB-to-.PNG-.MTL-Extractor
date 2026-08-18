@@ -7,6 +7,8 @@ After that enjoy a Night Themed  simple GUI. Input your Model, select Output loc
 I wrote this because i was annoyed by the work in Blender and the insane amount stupid paid obtions. I tried a few projects but did't work.
 Disclaimer: AI assisted by Claude
 
+FEATURES: Simple UI, Batch processing, Free
+
 NOTE:
 INSTALL
 
