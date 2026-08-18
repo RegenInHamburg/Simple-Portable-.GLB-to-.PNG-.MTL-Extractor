@@ -19,6 +19,6 @@ GLB_Extractor.bat is how to start the program and you dont need to install it an
 
 Have fun. Cya.
 
-![alt text](https://github.com/RegenInHamburg/Simple-Portable-.GLB-to-.PNG-.MTL-Extractor/blob/main/Glow%20Bun.png=500x500)
+<img src="https://github.com/RegenInHamburg/Simple-Portable-.GLB-to-.PNG-.MTL-Extractor/blob/main/Glow%20Bun.png" width="480">
 
 Njuu
