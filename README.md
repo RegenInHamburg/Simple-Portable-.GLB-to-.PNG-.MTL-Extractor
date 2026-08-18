@@ -13,6 +13,7 @@ INSTALL
 click build_portable_runtime.bat and run it.
 it will download the files needed for conversion.
 After that, its portable. You should be able to cram it on a USB drive and it should work anyways. 
+GLB_Extractor.bat is how to start the program and you dont need to install it anymore. It should work with just that GLB_Extractor.bat :)
 
 Have fun. Cya.
 
